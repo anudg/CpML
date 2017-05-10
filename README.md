@@ -21,3 +21,46 @@ The current released version of CpML - v5.3.0 is [here] (./v5.3.0)
 The current draft specification of CpM - v5.3.1-draft is [here] (./v5.3.1-draft)
 
 See http://www.cpml.org for futher details on governance and contributer membership.
+
+
+
+
+ 
+  
+  6.3
+  
+  
+  March-July
+  2016
+  
+  
+  Consistency
+  check between schema and CpML description. Overview of changes:
+  ·         
+  Alignment of document structure with schema structure, i.e. sections
+  added or removed, tables merged, order of fields adapted. 
+  ·         
+  Usage types corrected.
+  ·         
+  Names and descriptions corrected.
+  ·         
+  Missing fields, field types and value types added.
+  ·         
+  Redundant tables and sections removed.
+  ·         
+  Key/Info column removed.
+  ·         
+  Process-specific information removed.
+  ·         
+  Consistent terminology and spelling of terms.
+  ·         
+  Rules for modal verbs added and modal verbs corrected.
+  o  payload document = transaction details section
+  o  envelope = regulatory details
+  ·         
+  Conventions to explain document usage added.
+  
+ 
+
+
+
